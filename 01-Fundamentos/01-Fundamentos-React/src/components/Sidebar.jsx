@@ -16,7 +16,7 @@ export function Sidebar() {
 
       <footer>
         <a href="#">
-          <PencilLine size={20}/>
+          <PencilLine size={16}/>
           Editar seu perfil
         </a>
       </footer>
