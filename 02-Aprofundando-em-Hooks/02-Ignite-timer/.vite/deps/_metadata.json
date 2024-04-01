@@ -1,37 +1,43 @@
 {
-  "hash": "35246803",
+  "hash": "c9159884",
   "configHash": "efd0488f",
-  "lockfileHash": "af47055c",
-  "browserHash": "2346c6cb",
+  "lockfileHash": "e06a6d8b",
+  "browserHash": "3f589ec7",
   "optimized": {
     "react/jsx-dev-runtime": {
       "src": "../../node_modules/react/jsx-dev-runtime.js",
       "file": "react_jsx-dev-runtime.js",
-      "fileHash": "27b806b3",
+      "fileHash": "ee7f8ad8",
       "needsInterop": true
     },
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "2fa5d5f1",
+      "fileHash": "ff698c68",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "ec5841e2",
+      "fileHash": "c8f83a47",
       "needsInterop": true
     },
     "styled-components": {
       "src": "../../node_modules/styled-components/dist/styled-components.browser.esm.js",
       "file": "styled-components.js",
-      "fileHash": "dc54d0d0",
+      "fileHash": "bbde6bfd",
       "needsInterop": false
     },
     "react-router-dom": {
       "src": "../../node_modules/react-router-dom/dist/index.js",
       "file": "react-router-dom.js",
-      "fileHash": "a8303cf7",
+      "fileHash": "3d779b9b",
+      "needsInterop": false
+    },
+    "phosphor-react": {
+      "src": "../../node_modules/phosphor-react/dist/index.esm.js",
+      "file": "phosphor-react.js",
+      "fileHash": "bcf1ac16",
       "needsInterop": false
     }
   },
