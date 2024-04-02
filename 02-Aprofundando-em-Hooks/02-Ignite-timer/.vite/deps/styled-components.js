@@ -1,8 +1,10 @@
 import {
-  __commonJS,
-  __toESM,
   require_react
-} from "./chunk-UPDK7Z2H.js";
+} from "./chunk-O6O4HUXW.js";
+import {
+  __commonJS,
+  __toESM
+} from "./chunk-LQ2VYIYD.js";
 
 // node_modules/shallowequal/index.js
 var require_shallowequal = __commonJS({
