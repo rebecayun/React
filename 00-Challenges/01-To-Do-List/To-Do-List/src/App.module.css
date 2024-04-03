@@ -1,0 +1,9 @@
+.wrapper {
+  display: flex;
+  max-width: 46rem;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  /* margin-top: calc(0 - 1.5rem - 6px); */
+
+}

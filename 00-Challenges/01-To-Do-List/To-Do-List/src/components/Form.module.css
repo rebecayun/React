@@ -1,0 +1,31 @@
+.form {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.form textarea {
+  border: 0;
+  resize: none;
+  width: 39.875rem;
+  height: 3.375rem;
+  background: var(--gray-500);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.form textarea::placeholder {
+  justify-content: center;
+  align-items: center;
+}
+
+.form button {
+  width: 5.625rem;
+  height: 3.250rem;
+  border: 0;
+  border-radius: 8px;
+  margin-left: 0.5rem;
+  background: var(--blue-dark);
+  color: var(--gray-100);
+}
