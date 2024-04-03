@@ -1,0 +1,41 @@
+.taskContainer {
+  width: 100%;
+  color: #fff;
+  overflow: auto;
+}
+
+.task {
+  width: 100%;
+  display: flex;
+  margin-top: 3rem;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--gray-400);
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.task p {
+  width: 39.5rem;
+  font-size: 14px;
+}
+
+.task span {
+  border: 0.5rem;
+  color: #fff;
+}
+
+.task button {
+  background: transparent;
+  border: 0;
+  color: var(--gray-300);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border-radius: 2px;
+  transition: 0.1s;
+}
+
+.task button:hover {
+  color: var(--danger);
+}
