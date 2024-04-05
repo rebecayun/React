@@ -24,9 +24,6 @@ const newCycleFormValidationSchema = zod.object({
 
 type NewCycleFormData = zod.infer<typeof newCycleFormValidationSchema>
 
-
-
-
 export function Home() {
   const { activeCycle, createNewCycle, interruptCurrentCycle } = useContext(CyclesContext)
 
@@ -44,15 +41,6 @@ export function Home() {
     createNewCycle(data)
     reset()
   }
-
-
-
-
-
-
-
-
-
 
   const task = watch('task')
   const isSubmitDisabled = !task
