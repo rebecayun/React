@@ -45,10 +45,11 @@ export function TransactionsProvider ({ children }: TransactionsProviderProps) {
         }
       })
 
-    setTransactions(response.data)
-  },
-  []
-)
+      setTransactions(response.data)
+
+    },
+    []
+  )
 
   const createTransaction = useCallback(
     async (data: CreateTransactionInput) => {

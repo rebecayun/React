@@ -42,9 +42,10 @@ export function NewTransactionModal() {
       description,
       price,
       category,
-      type
+      type,
     })
 
+    console.log(data);
 
     reset()
   }

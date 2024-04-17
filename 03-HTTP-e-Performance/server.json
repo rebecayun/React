@@ -39,6 +39,30 @@
       "category": "sas",
       "type": "income",
       "createdAt": "2024-04-17T18:04:27.478Z"
+    },
+    {
+      "id": "0153",
+      "description": "asf",
+      "price": 12,
+      "category": "ad",
+      "type": "income",
+      "createdAt": "2024-04-17T21:34:34.275Z"
+    },
+    {
+      "id": "4944",
+      "description": "wefdsfeswr",
+      "price": 3,
+      "category": "swfed",
+      "type": "outcome",
+      "createdAt": "2024-04-17T21:48:02.570Z"
+    },
+    {
+      "id": "8190",
+      "description": "saef",
+      "price": 11,
+      "category": "sas",
+      "type": "outcome",
+      "createdAt": "2024-04-17T21:54:34.165Z"
     }
   ]
 }
